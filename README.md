@@ -1,3 +1,5 @@
 # Investment Calculator Web App
 ## description of project
-<strong style='align-item: Center'>Coming Soon</strong>
+<p align="center">
+  <strong>Coming Soon</strong>
+</p>
