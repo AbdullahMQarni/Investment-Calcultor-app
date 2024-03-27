@@ -48,3 +48,13 @@ This command runs the app in development mode. Open http://localhost:3000 in you
    - Initial Investment Amount: Enter the amount of money you initially plan to invest.
    - Expected Annual Return Rate: Specify your expected annual return rate as a percentage. For example, enter 5 if you expect a 5% annual return.
    - Investment Duration: Input the number of years you plan to keep your investment.
+
+
+
+## Social Media
+
+Stay connected with us on social media:
+
+- Twitter: [@AbdullahMQarni](https://twitter.com/AbdullahMQarni)
+- Linkedin: [Linkedin Page](https://www.linkedin.com/in/abdullahmalqarni)
+- My Website: [My Website](https://www.abdullahqarni.com)
