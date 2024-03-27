@@ -34,17 +34,17 @@ To get a local copy up and running, follow these simple steps:
    ```sh
    npm install
 
+1. **Start the Application**: After installation, run the application by executing:
+
+   ```sh
+   npm run dev or npm start
+This command runs the app in development mode. Open http://localhost:3000 or http://localhost:5173 in your browser to access the app. The page will automatically reload if you make edits to the code.
+
 ## Usage
 
 The Investment Calculator App is designed to be intuitive and easy to use, allowing users to quickly understand potential investment returns. Here's how to use the app:
 
-1. **Start the Application**: After installation, run the application by executing:
-
-   ```sh
-   npm start
-This command runs the app in development mode. Open http://localhost:3000 in your browser to access the app. The page will automatically reload if you make edits to the code.
-
-2. **Enter Investment Details:
+1. **Enter Investment Details:
    - Initial Investment Amount: Enter the amount of money you initially plan to invest.
    - Expected Annual Return Rate: Specify your expected annual return rate as a percentage. For example, enter 5 if you expect a 5% annual return.
    - Investment Duration: Input the number of years you plan to keep your investment.
