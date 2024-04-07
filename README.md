@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps:
    git clone https://github.com/AbdullahMQarni/Investment-Calcultor-app.git
 2. Navigate into the project directory:
    ```sh
-   cd investment-calculator
+   cd Investment-Calcultor-app
 3. Install the necessary dependencies:
    ```sh
    npm install
