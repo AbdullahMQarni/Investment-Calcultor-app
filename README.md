@@ -26,7 +26,7 @@ To get a local copy up and running, follow these simple steps:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/AbdullahMQarni/investment-calculator.git](https://github.com/AbdullahMQarni/Investment-Calcultor-app.git)
+   git clone https://github.com/AbdullahMQarni/investment-calculator.git
 2. Navigate into the project directory:
    ```sh
    cd investment-calculator
